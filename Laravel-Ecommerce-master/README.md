@@ -49,5 +49,5 @@ jika merubah data ini silahkan anda kosongkan pada menu image/catogeries/sliders
 -   password = 123
 #### progammmer
 
--   galang bryllyan wicaksono dengan nim:A11.2018.10960
+-   galang bryllyan wicaksono 
 -   NO WA:088227601783
